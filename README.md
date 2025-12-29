@@ -156,16 +156,11 @@ BM25 similarity instead of TF-IDF
 Resume improvement suggestions
 
 ---
+## 🖥 Application Interface
 
-### 📌 Ideal For
-
-Machine Learning portfolios
-
-LinkedIn project posts
-
-Recruiter demonstrations
-
-Interview discussions on ML fundamentals
+<p align="center">
+  <img src="images/ui.png" width="800">
+</p>
 ---
 
 ### 👨‍💻 Author
