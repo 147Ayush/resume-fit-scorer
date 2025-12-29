@@ -163,9 +163,14 @@ Resume improvement suggestions
 </p>
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
 Ayush Soni
 Machine Learning Enthusiast | Python | NLP | Classical ML
 
 ⭐ If you found this project useful, feel free to star the repository!
+
+---
+
+## Web Application Link
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://resume-fit-scorer-wtxz6dy352cjnfmtvq7tfn.streamlit.app/)
