@@ -161,7 +161,6 @@ Resume improvement suggestions
 <p align="center">
   <img src="images/ui.png" width="800">
 </p>
----
 
 ## 👨‍💻 Author
 
